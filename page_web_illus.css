@@ -7,6 +7,14 @@ body {
     background-color: #dcdad5;
 }
 /* Style du titre principal "Introduction" */
+.titre{
+    font-size: 3em;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+    color: #333;
+}
+
  h1 {
     font-size: 2em;
     font-weight: bold;
